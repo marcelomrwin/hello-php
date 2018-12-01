@@ -12,6 +12,7 @@
   </style>
   </head>
   <body>
+    <h2>Olá, eu sou uma app PHP :-D que funciona</h2>
     <h1>VERSÃO 1</h1>
   <br/> Server IP: <?php echo $_SERVER['SERVER_ADDR']; ?>
   <br/>
